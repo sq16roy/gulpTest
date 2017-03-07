@@ -1,0 +1,10 @@
+.testing {
+  width: 71.42857%; }
+
+section {
+  width: 80%;
+  display: block;
+  overflow: hidden;
+  margin: 0 auto;
+  background-color: black;
+  color: white; }

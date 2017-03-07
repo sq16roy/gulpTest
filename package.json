@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sq16roy/gulpTest.git"
+  },
+  "author": "Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sq16roy/gulpTest/issues"
+  },
+  "homepage": "https://github.com/sq16roy/gulpTest#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
